@@ -1,0 +1,13 @@
+Version 1.2
+------------
+Improved codebase
+
+Version 1.1
+------------
+Fixed bugs
+- Bug in inputs where multiple question marks were displayed
+- Bug in generating prediction and progress indicator dots were on the second line
+
+Version 1.0
+------------
+Initial version
